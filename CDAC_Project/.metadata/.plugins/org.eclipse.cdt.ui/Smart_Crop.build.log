@@ -1,0 +1,10 @@
+15:49:00 **** Incremental Build of configuration Debug for project Smart_Crop ****
+make -j4 all 
+arm-none-eabi-size  Smart_Crop.elf 
+   text	   data	    bss	    dec	    hex	filename
+  18088	     92	   2300	  20480	   5000	Smart_Crop.elf
+Finished building: default.size.stdout
+ 
+
+15:49:01 Build Finished. 0 errors, 0 warnings. (took 684ms)
+
